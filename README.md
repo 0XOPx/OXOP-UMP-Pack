@@ -7,4 +7,4 @@ Installation Guide:
 https://github.com/0XOPx/OXOP-UMP-Pack/wiki/Installation
 
 # INFO FROM 1.0.3 PRE-BETA 1 TO NEWER!
-## THIS NOW DOES NOT HAVE JAPEANEASE!
+## THIS NOW DOES NOT HAVE JAPANESE!
