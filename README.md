@@ -6,5 +6,5 @@ And it's for 1.7.1 or above
 Installation Guide:
 https://github.com/0XOPx/OXOP-UMP-Pack/wiki/Installation
 
-# INFO FROM 1.0.3 PRE-BETA 1 TO NEWER!
+# INFO FROM 1.0.3 BETA 1 TO NEWER!
 ## THIS NOW DOES NOT HAVE JAPANESE!
