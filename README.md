@@ -9,7 +9,7 @@ https://github.com/0XOPx/OXOP-UMP-Pack/wiki/Installation
 # INFO FROM 1.0.3 BETA 1 TO NEWER!
 ## THIS NOW DOES NOT HAVE JAPANESE!
 # INFO FROM 1.0.3B3 TO NEWER!
-## IT ORIGINALLY SUPPORTED 1.3~LATEST! NOW IT SUPPORTS 1.7~LATEST CAUSE OF FORMAT BEING 1 NOW!!!
+## IT ORIGINALLY SUPPORTED 1.3\~LATEST! NOW IT SUPPORTS 1.7\~LATEST CAUSE OF FORMAT BEING 1 NOW!!!
 <img width="946" height="184" alt="image" src="https://github.com/user-attachments/assets/e4d711ef-297a-4c6d-854b-771669235917" /><br>
 Look at the guide:
 
